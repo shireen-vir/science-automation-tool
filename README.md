@@ -12,3 +12,6 @@ This repository contains a data science tool for automating scientific data proc
 
 ## Getting Started
 To get started, clone the repository and install the required dependencies.
+
+## Changelog
+- Added utility functions
